@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/jiaoery/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoery)](https://github.com/jiaoery/github-readme-stats)
+My ![Visitor Count](https://profile-counter.glitch.me/jiaoery/count.svg) Vistor
+
+**Languages:**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaoery&layout=compact)](https://github.com/jiaoery/github-readme-stats)
+
 ![jiaoery's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaoery&show_icons=true&theme=tokyonight)
+
 ![decription](https://img.shields.io/badge/tools-pycharm-green)
