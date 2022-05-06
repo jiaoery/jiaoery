@@ -46,4 +46,7 @@ I'm glad to see you ,my ![Visitor Count](https://profile-counter.glitch.me/jiaoe
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jiaoery&column=8"/>
 
+### Watch my contribution graph get eaten by the snake 🐍
 ![](https://raw.githubusercontent.com/jiaoery/jiaoery/output/github-contribution-grid-snake.svg)
+
+
